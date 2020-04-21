@@ -3,15 +3,16 @@
     <div class="fondo"></div>
     <div class="texto">
       <div class="pack">
-          <div class="pack">
-        <a href="mailto:laugoabad@gmail.com" ><h2>MAIL: laugoabad@gmail.com</h2></a>
-      </div>
-        <h2>TELEFONO: +54 9 11 5122 6486</h2>
+        <a href="mailto:laugoabad@gmail.com">
+          <h2>MAIL: <br>laugoabad@gmail.com</h2>
+        </a>
       </div>
       <div class="pack">
-        <h2>DIRECCION: Vicente López - GBA Norte - Prov. Bs. As</h2>
+        <h2>TELEFONO:<br> +54 9 11 5122 6486</h2>
       </div>
-      
+      <div class="pack">
+        <h2>DIRECCION: <br>Vicente López - GBA Norte - Prov. Bs. As</h2>
+      </div>
     </div>
   </div>
 </template>
@@ -34,26 +35,26 @@ export default {};
   animation: animacion-2 13s forwards;
 }
 .texto {
-  font-size: 1.8rem;
   margin: 6rem 0rem 0rem 10rem;
   text-align: left;
-  padding: 2rem;
   position: absolute;
   animation: animacion 4s forwards;
 }
 
-.pack {
-    margin: 4rem 0rem;
+.pack h2, .pack a{
+  margin: 2rem 0rem;
+  padding: 1rem;
+  font-size: 1.8rem;
 }
 
 h2 {
-    font-weight: bold;
+  font-weight: bold;
 }
-h3{
-    font-weight: 600;
+h3 {
+  font-weight: 600;
 }
 a {
-    color:  #212529;
+  color: #212529;
 }
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 425px) {
@@ -69,6 +70,9 @@ a {
     padding: 4rem;
     margin: 1rem 0rem 0rem 24rem;
   }
+  .pack a, .pack h2 {
+     font-size: 2.2rem;
+  }
 }
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 1024px) {
@@ -83,6 +87,9 @@ a {
   .texto {
     padding: 5rem;
     margin: 0rem 0rem 0rem 46rem;
+  }
+  .pack a .pack h2 {
+    font-size: 3rem;
   }
 }
 
