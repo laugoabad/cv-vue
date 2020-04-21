@@ -54,7 +54,7 @@ nav {
 }
 
 .nav-item {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin: 0.2rem;
   color: $color-nav-item;
 }
