@@ -34,7 +34,7 @@ export default {};
   animation: animacion-2 13s forwards;
 }
 .texto {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin: 6rem 0rem 0rem 10rem;
   text-align: left;
   padding: 2rem;
@@ -58,6 +58,7 @@ a {
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 425px) {
   .texto {
+    font-size: 2.2rem;
     padding: 3rem;
     margin: 1rem 0rem 0rem 12rem;
   }
