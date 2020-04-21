@@ -34,6 +34,7 @@ export default {};
   animation: animacion-2 13s forwards;
 }
 .texto {
+  font-size: 2rem;
   margin: 6rem 0rem 0rem 10rem;
   text-align: left;
   padding: 2rem;
@@ -89,7 +90,7 @@ a {
     top: -30rem;
   }
   to {
-    top: 10rem;
+    top: 5rem;
   }
 }
 @keyframes animacion-2 {

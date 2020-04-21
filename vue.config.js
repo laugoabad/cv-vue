@@ -1,5 +1,5 @@
-module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-        ? '/cv-vue/dist/'
-        : '/'
-}
+// module.exports = {
+//     publicPath: process.env.NODE_ENV === 'production'
+//         ? '/cv-vue/'
+//         : '/'
+// }
