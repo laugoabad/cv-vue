@@ -76,7 +76,7 @@ export default {
 }
 
 @keyframes animacion {
-  0% {top: -100rem;}
+  0% {top: -150rem;}
   100% {top: 0rem;}
 }
 @keyframes animacion-2 {

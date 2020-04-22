@@ -93,7 +93,7 @@ h3{
 }
 
 @keyframes animacion {
-  from {top: 100rem;}
+  from {top: 200rem;}
   to {top: 0rem;}
 }
 @keyframes animacion-2 {

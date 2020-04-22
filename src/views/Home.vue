@@ -60,7 +60,7 @@ Imagen de <a href="https://pixabay.com/es/users/markusspiske-670330/?utm_source=
   -moz-animation:  fadeIn-2 6s forwards;
   -webkit-animation: fadeIn-2 6s forwards;
   -o-animation: fadeIn-2 6s forwards;
-   animation-delay: 6s;
+   animation-delay: 7s;
 } 
 .figura-1 {
   width: 100%;

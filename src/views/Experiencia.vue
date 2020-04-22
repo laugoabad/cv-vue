@@ -111,7 +111,7 @@ h3 {
 
 @keyframes animacion {
   from {
-    top: 100rem;
+    top: 200rem;
   }
   to {
     top: 0rem;

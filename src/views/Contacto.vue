@@ -95,7 +95,7 @@ a {
 
 @keyframes animacion {
   from {
-    top: -30rem;
+    top: -150rem;
   }
   to {
     top: 5rem;
