@@ -35,16 +35,16 @@ export default {};
   animation: animacion-2 13s forwards;
 }
 .texto {
-  margin: 6rem 0rem 0rem 10rem;
+  margin: 6rem 0rem 0rem 12rem;
   text-align: left;
   position: absolute;
   animation: animacion 4s forwards;
 }
 
 .pack h2, .pack a{
-  margin: 2rem 0rem;
+  margin: 1rem 0rem;
   padding: 1rem;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 h2 {
