@@ -2,6 +2,9 @@
   <div id="portfolio">
     <div class="fondo"></div>
     <div class="texto">
+       <a href="https://www.aua-natura.com" target="_blank">
+        <h2>AUA</h2>
+      </a>
       <a href="https://www.mattianebiolo.tk" target="_blank">
         <h2>MATTIA NEBIOLO ARCHITETTO</h2>
       </a>
@@ -13,6 +16,8 @@
       <a href="https://www.rompecabezas.tk" target="_blank">
         <h2>ROMPECABEZAS</h2>
       </a>
+     
+
     </div>
   </div>
 </template>
