@@ -2,6 +2,9 @@
   <div id="portfolio">
     <div class="fondo"></div>
     <div class="texto">
+      <a href="https://www.durlock.com/" target="_blank">
+        <h2>DURLOCK</h2>
+      </a> 
        <a href="https://www.aua-natura.com" target="_blank">
         <h2>AUA</h2>
       </a>
