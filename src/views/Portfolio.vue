@@ -46,7 +46,7 @@ export default {};
   animation: animacion-2 13s forwards;
 }
 .texto{
-  margin: 6rem 0rem 0rem 8rem;
+  margin: 6rem 0rem 0rem 10rem;
   text-align: left;
   padding: 2rem;
   position: absolute;

@@ -40,7 +40,7 @@ export default {};
 }
 .texto {
   font-size: 2rem;
-  margin: 6rem 0rem 0rem 10rem;
+  margin: 2rem 0rem 0rem 10rem;
   text-align: left;
   padding: 2rem;
   position: absolute;

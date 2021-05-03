@@ -57,7 +57,7 @@ export default {};
 .texto {
   font-size: 2rem;
   color: $color-secundario;
-  margin: 6rem 0rem 0rem 10rem;
+  margin: 2rem 0rem 0rem 10rem;
   text-align: left;
   padding: 2rem;
   position: absolute;
@@ -70,32 +70,34 @@ export default {};
 
 h2 {
   font-weight: bold;
+  font-size: 1.9rem;
 }
 h3 {
   font-weight: 600;
+  font-size: 1.7rem;
 }
 
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 425px) {
   .texto {
-    font-size: 2.2rem;
-    padding: 3rem;
-    margin: 1rem 0rem 0rem 12rem;
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 1rem 0rem 0rem 14rem;
   }
 }
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 768px) {
   .texto {
-    font-size: 3rem;
-    padding: 4rem;
+    font-size: 2.8rem;
+    padding: 2rem;
     margin: 1rem 0rem 0rem 24rem;
   }
 }
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 1024px) {
   .texto {
-    font-size: 3.5rem;
-    padding: 4rem;
+    font-size: 3.2rem;
+    padding: 3rem;
     margin: 0rem 0rem 0rem 36rem;
   }
 }
@@ -103,8 +105,8 @@ h3 {
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 1440px) {
   .texto {
-    font-size: 4.8rem;
-    padding: 5rem;
+    font-size: 4rem;
+    padding: 4rem;
     margin: 0rem 0rem 0rem 46rem;
   }
 }
