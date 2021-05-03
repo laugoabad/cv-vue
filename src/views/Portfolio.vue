@@ -15,10 +15,13 @@
       <a href="https://www.studioampia.com" target="_blank">
         <h2>STUDIO AMPIA</h2>
       </a>
-
+       <a href="https://laugoabad.github.io/navbar-sin-js/" target="_blank">
+        <h2>MAQUETADO MENU SIN JAVASCRIPT</h2>
+      </a>
       <a href="https://www.rompecabezas.tk" target="_blank">
         <h2>ROMPECABEZAS</h2>
       </a>
+     
      
 
     </div>
@@ -43,17 +46,18 @@ export default {};
   animation: animacion-2 13s forwards;
 }
 .texto{
-  margin: 8rem 0rem 0rem 8rem;
+  margin: 6rem 0rem 0rem 8rem;
   text-align: left;
   padding: 2rem;
   position: absolute;
   animation: animacion 4s forwards;
+  a h2{
+    font-size: 1.6rem;
+    padding: 1rem;
+  }
+
 }
 
-.texto a h2{
-    font-size: 1.6rem;
-    padding: 1.4rem;
-  }
 
 h2 {
   font-weight: bold;
@@ -66,47 +70,51 @@ h3 {
 @media (min-width: 425px) {
   .texto {
     padding: 3rem;
-    margin: 6rem 0rem 0rem 12rem;
-  }
-  .texto a h2{
-    font-size: 1.8rem;
+    margin: 3rem 0rem 0rem 12rem;
+    a h2{
+    font-size: 1.6rem;
     padding: 1.4rem;
   }
+  }
+  
 }
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 768px) {
   .texto {
     padding: 4rem;
-    margin: 5rem 0rem 0rem 24rem;
+    margin: 2rem 0rem 0rem 20rem;
+    a h2{
+    font-size: 2rem;
+    padding: 1.6rem;
+  }
   }
 
-  .texto a h2{
-    font-size: 2.2rem;
-    padding: 2rem;
-  }
+  
 }
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 1024px) {
   .texto {
-    padding: 6rem;
-    margin: 8rem 0rem 0rem 32rem;
+    padding: 1.6rem;
+    margin: 6rem 0rem 0rem 32rem;
+    a h2{
+    font-size: 2.6rem;
+    padding: 2rem;
   }
-  .texto a h2{
-    font-size: 2.8rem;
-    padding: 3rem;
   }
+ 
 }
 
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 1440px) {
   .texto {
     padding: 5rem;
-    margin: 10rem 0rem 0rem 46rem;
-  }
-  .texto a h2{
+    margin: 5rem 0rem 0rem 42rem;
+    a h2{
     font-size: 3.2rem;
     padding: 3rem;
   }
+  }
+  
 }
 
 @keyframes animacion {

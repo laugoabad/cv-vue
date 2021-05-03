@@ -29,14 +29,6 @@ export default {
 <style lang="scss" scoped>
 @import "../../public/css/colores.scss";
 
-/*Imagen de <a href="https://pixabay.com/es/users/Skitterphoto-324082/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2982270">Rudy and Peter Skitterians</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2982270">Pixabay</a>
-
-Imagen de <a href="https://pixabay.com/es/users/hikersbay-95996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=545772">hikersbay</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=545772">Pixabay</a>
-
-Imagen de <a href="https://pixabay.com/es/users/markusspiske-670330/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1486358">Markus Spiske</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1486358">Pixabay</a>
-
-*/
-
 
 .texto-animated {
   font-size: 1.1rem;
