@@ -11,7 +11,7 @@
 export default {
   data() {
     return {
-      texto:'Me dedico sobre todo al Front End, apasionada por el diseño web, aunque también manejo algo de base de datos y back end.\nMe ocupo básicamente de maquetado responsive y animaciones, desarrollo de páginas web como SPA usando Vue.js, Quasar para hacer apps.\nMe gusta trabajar en equipo pero puedo también trabajar en modo autónomo.'
+      texto:'Me dedico sobre todo al Front End, apasionada por el diseño web, aunque también manejo algo de base de datos y back end.\nMe ocupo básicamente de maquetado responsive y animaciones, desarrollo de páginas web como SPA usando Vue.js, Quasar para desarrollar apps.\nMe gusta trabajar en equipo pero puedo también trabajar en modo autónomo.'
       }
   },
 };
@@ -69,7 +69,7 @@ export default {
 /*------------------------------------------------------------------------------------------*/
 @media (min-width: 1440px) {
   .texto {
-    font-size: 4.2rem;
+    font-size: 3.8rem;
     padding: 5rem;
     margin: 0rem 0rem 0rem 46rem;
   }
