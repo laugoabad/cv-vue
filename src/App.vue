@@ -7,7 +7,7 @@
           <br />Gonzalez
           <br />Abad
         </router-link>
-        <router-link to="/yo" class="nav-item nav-link">Yo</router-link>
+        <router-link to="/yo" class="nav-item nav-link">Yo!</router-link>
         <router-link to="/formacion" class="nav-item nav-link">Formación</router-link>
         <router-link to="/portfolio" class="nav-item nav-link">Portfolio</router-link>
         <router-link to="/experiencia" class="nav-item nav-link">Experiencia</router-link>
